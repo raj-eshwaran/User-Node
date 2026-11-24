@@ -125,6 +125,7 @@ userRoutes.put('/:id', UserController.updateUser);
 userRoutes.delete('/:id', UserController.deleteUser);
 
 module.exports = userRoutes;
+
 ```
 
 
